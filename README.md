@@ -15,6 +15,6 @@
 9 |[Предсказание стоимости автомобиля](https://github.com/GippIvan/Yandex_practicum/tree/main/9-car_price_pred) | По имеющимся данным площадки по продаже б/у автомобилейнеобходимо предсказать их стоимость | pandas, scikit-learn, numpy, seaborn, lightgbm
 10 |[Временные ряды](https://github.com/GippIvan/Yandex_practicum/tree/main/10-time_series)| Спомощью временных рядов необходимо спрогнозировать количество такси заказов на следующий час| pandas, scikit-learn, numpy, matplotlib, seaborn, statsmodels
 11 | [Выявление токсичных комментариев](https://github.com/GippIvan/Yandex_practicum/tree/main/11-toxic)| Анализ комментариев к товару, нахождение негатива | pandas, scikit-learn, numpy, nltk, lightgbm,  re
-12 |||
-13 |||
-14 |||
+12 | [SQL запросы и анализ](https://github.com/GippIvan/Yandex_practicum/tree/main/12-sql%2Banalysis)| извлечение нужной информации из БД с помощью sql, статистический анализ полученных данных| 
+13 |[Компьютерное зрение]()| Определение возраста клиентов магазина по фото | tensorflow.keras, pandas, seaborn, matplotlib
+14 |[Предсказание температуры](https://github.com/GippIvan/Yandex_practicum/tree/main/14-industry_final_project) | По данным полученым на разных этапах производства стали необходимо определить оптимальную температуры для образования нужного сплава| pandas, numpy, seaborn, catboost, scikit-learn, lightgbm, matplotlib
