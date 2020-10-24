@@ -11,10 +11,10 @@
 5 |[Потеря клиента банком](https://github.com/GippIvan/Yandex_practicum/tree/main/5-prediction_of_losing_clients)| Предсказание возможного расторжение договора клиента банка по историческим данным |pandas, matplotlib, numpy, seaborn, scikit-learn
 6 | [Нефтедобыча](https://github.com/GippIvan/Yandex_practicum/tree/main/6-choosing_location_for_well)| Определение наилучшего места для бурения скважин по известным данным о залежах и составе нефти| pandas, matplotlib, numpy, seaborn, scikit-learn, scipy
 7 | [Восстановление золота](https://github.com/GippIvan/Yandex_practicum/tree/main/7-coefficient_of_recovery_of_gold)|Предсказние коэффициент восстановления золота из золотосодержащей руды для оптимизации производства| pandas, scikit-learn, numpy, scipy, matplotlib, seaborn
-8 |||
-9 |||
-10 |||
-11 |||
+8 |[Защита данных](https://github.com/GippIvan/Yandex_practicum/tree/main/8-data_protection)| Преобразование данных для защиты, влияние преобразований и модель машинного обучения | pandas, scikit-learn, numpy
+9 [Предсказание стоимости автомобиля](https://github.com/GippIvan/Yandex_practicum/tree/main/9-car_price_pred) | По имеющимся данным площадки по продаже б/у автомобилейнеобходимо предсказать их стоимость | pandas, scikit-learn, numpy, seaborn, lightgbm
+10 |[Временные ряды](https://github.com/GippIvan/Yandex_practicum/tree/main/10-time_series)| Спомощью временных рядов необходимо спрогнозировать количество такси заказов на следующий час| pandas, scikit-learn, numpy, matplotlib, seaborn, statsmodels
+11 | [Выявление токсичных комментариев](https://github.com/GippIvan/Yandex_practicum/tree/main/11-toxic)| Анализ комментариев к товару, нахождение негатива | pandas, scikit-learn, numpy, nltk, lightgbm,  re
 12 |||
 13 |||
 14 |||
